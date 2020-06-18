@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <!-- English -->
+    <language name="en">
+        <string key="save" value="Save"/>
+        <string key="website_of_game" value="Website"/>
+        <string key="close" value="Close"/>
+        <string key="get_config_error" value="Get the faulty configuration"/>
+        <string key="category_choice" value="Choice category: %s"/>
+        <string key="play" value="Play"/>
+        <string key="setting" value="Setting"/>
+        <string key="change_language" value="Change language:"/>
+        <string key="close_dialog" value="Close dialog"/>
+        <string key="advertise_close_after" value="Advertise close after %ss"/>
+        <string key="loading" value="Loading"/>
+        <string key="quit" value="Quit"/>
+        <string key="play_agin" value="Play agin"/>
+        <string key="message_quit_game" value="Game is not over
+You will lose if you exit"/>
+        <string key="level" value="Level: %s"/>
+        <string key="time" value="%s"/>
+        <string key="score" value="Score: %s"/>
+        <string key="message_end_time" value="Timeout
+Do you want to replay this game?"/>
+        <string key="your_time" value="Finish at: %ss"/>
+        <string key="best_time" value="Best time: %ss"/>
+        <string key="you_must_update_full_items"
+                value="You must update enough to play this category"/>
+        <string key="processing_google_login" value="Processing google login"/>
+        <string key="processing_fb_login" value="Processing facebook login"/>
+        <string key="please_input_category_name" value="Please input category name"/>
+        <string key="locked" value="Locked"/>
+        <string key="input_category_name" value="Input category name"/>
+        <string key="please_create_full_items" value="Please create full items"/>
+        <string key="login_for_update_score_to_ranking"
+                value="Login for update result to ranking"/>
+        <string key="push_result" value="Update result"/>
+        <!--        <string key="process_fb_login" value="Process facebook login"/>-->
+        <!--        <string key="process_google_login" value="Process google login"/>-->
+        <string key="get_resuced" value="Help me"/>
+        <string key="not_support_size" value="Don't support screen size (%s x %s)"/>
+        <string key="total_upload" value="Total %s images upload"/>
+        <string key="display_name" value="Display name"/>
+        <string key="best_time" value="Best time"/>
+        <string key="rank" value="Rank of level %s"/>
+        <string key="fb_login_error" value="Fb login error"/>
+        <string key="google_login_error" value="Google login error"/>
+        <string key="you_must_login_before_use_it"
+                value="You must login with Fb or G+ before use function"/>
+        <string key="sign_out" value="Sign out %s"/>
+        <string key="share_by_total_used" value="Share by '%s' and total played %s"/>
+        <string key="please_wait_download_complete" value="Please wait for download complete"/>
+        <string key="share" value="Share"/>
+        <string key="view_rule_share" value="I want public my items"/>
+        <string key="link_share" value="open link on website"/>
+        <string key="stop_share" value="Delete share"/>
+        <string key="share_description" value="Share for all to play"/>
+        <string key="tap_to_edit_category_icon" value="Tap to image to edit category icon"/>
+        <string key="version" value="Version: %s"/>
+        <string key="share_link_play_to_friend" value="Share link '%s' to your friend"/>
+        <string key="update_new_version" value="Version '%s' not support
+New version '%s' exist on store, update for play"/>
+        <string key="error_update_asset_service_auto_retry" value="Error updating resources
+The system will automatically update again"/>
+        <string key="function_is_stop" value="This function is stopping"/>
+    </language>
+
+    <!-- vietnam -->
+    <language name="vi">
+        <string key="save" value="Lưu"/>
+        <string key="website_of_game" value="Website"/>
+        <string key="close" value="Đóng"/>
+        <string key="get_config_error" value="Lấy cấu hình bị lỗi"/>
+        <string key="category_choice" value="Chọn danh mục: %s"/>
+        <string key="play" value="Chơi"/>
+        <string key="setting" value="Cấu hình"/>
+        <string key="change_language" value="Chọn ngôn ngữ:"/>
+        <string key="close_dialog" value="Tắt cửa sổ"/>
+        <string key="advertise_close_after" value="Quảng cáo sẽ tắt sau %s giây"/>
+        <string key="loading" value="Đang tải"/>
+        <string key="quit" value="Thoát"/>
+        <string key="play_agin" value="Chơi lại"/>
+        <string key="message_quit_game" value="Ván đấu chưa kết thúc
+Bạn sẽ thua nếu thoát"/>
+        <string key="level" value="Cấp: %s"/>
+        <string key="time" value="%s"/>
+        <string key="score" value="Điểm: %s"/>
+        <string key="message_end_time" value="Hết thời gian
+Bạn muốn chơi lại ván này không?"/>
+        <string key="your_time" value="Hoàn thành: %s giây"/>
+        <string key="best_time" value="Tgian nhanh nhất: %s"/>
+        <string key="update_score_to_server" value="Bạn được cập nhật điểm lên hệ thống xếp hạng"/>
+        <string key="login_for_update_score_to_ranking"
+                value="Bạn phải đăng nhập thì mới cập nhật điểm số lên hện thống xếp hạng"/>
+        <string key="you_must_update_full_items"
+                value="Bạn phải cập nhật đủ thì mới chơi với thể loại này"/>
+        <string key="processing_google_login" value="Đang xử lý đăng nhập với Google"/>
+        <string key="processing_fb_login" value="Đang xử lý đăng nhập với Fb"/>
+        <string key="please_input_category_name" value="Nhập đầy đủ tên danh mục"/>
+        <string key="locked" value="Khoá"/>
+        <string key="input_category_name" value="Tên danh mục"/>
+        <string key="please_create_full_items" value="Hãy cập nhật đủ"/>
+        <string key="login_for_update_score_to_ranking"
+                value="Đăng nhập để cập nhật thành tích lên hệ thống xếp hạng"/>
+        <string key="push_result" value="Cập nhật"/>
+        <!--        <string key="process_fb_login" value="Xử lý đăng nhập Facebook"/>-->
+        <!--        <string key="process_google_login" value="Xử lý đăng nhập Google"/>-->
+        <string key="get_resuced" value="Trợ giúp"/>
+        <string key="not_support_size" value="Không hỗ trợ kích thước thiết bị (%s x %s)"/>
+        <string key="total_upload" value="Tổng %s hình lưu lên máy chủ"/>
+        <string key="display_name" value="Họ tên"/>
+        <string key="best_time" value="Thời gian"/>
+        <string key="rank" value="Xếp hạng cấp %s"/>
+        <string key="you_must_login_before_use_it"
+                value="Bạn phải đăng nhập Fb hoặc G+ để dùng tính năng này"/>
+        <string key="fb_login_error" value="Đăng nhập FB thấp bại"/>
+        <string key="google_login_error" value="Đăng nhập Google thất bại"/>
+        <string key="sign_out" value="Thoát %s"/>
+        <string key="share_by_total_used" value="Chia sẻ bởi '%s' tổng lượt chơi %s"/>
+        <string key="please_wait_download_complete" value="Xin chờ tải hình ảnh xong"/>
+        <string key="share" value="Chia sẻ"/>
+        <string key="view_rule_share" value="Tôi muốn chia sẻ cho tất cả"/>
+        <string key="link_share" value="Mở trên trình duyệt web"/>
+        <string key="stop_share" value="Xoá chia sẻ"/>
+        <string key="share_description" value="Chia sẻ cho tất cả cùng chơi"/>
+        <string key="tap_to_edit_category_icon" value="Nhấn vào hình đại diện để thay đổi"/>
+        <string key="version" value="Phiên bản: %s"/>
+        <string key="share_link_play_to_friend" value="Chia sẻ link '%s' với bạn bè"/>
+        <string key="update_new_version" value="Phiên bản '%s' không được hỗ trợ
+Đã có phiên bản '%s' trên cửa hàng, cập nhật để chơi nhé"/>
+        <string key="error_update_asset_service_auto_retry" value="Lỗi cập nhật tài nguyên
+Hệ thống sẽ tự động cập nhật lại"/>
+        <string key="function_is_stop" value="Tính năng này đang tạm đóng"/>
+    </language>
+
+    <!-- china -->
+    <language name="china"></language>
+</languages>

@@ -1,0 +1,40 @@
+
+helps.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+helps
+  rotate: false
+  xy: 491, 2
+  size: 440, 574
+  orig: 440, 574
+  offset: 0, 0
+  index: -1
+helps4
+  rotate: false
+  xy: 2, 8
+  size: 487, 568
+  orig: 487, 568
+  offset: 0, 0
+  index: -1
+
+helps2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+helps2
+  rotate: false
+  xy: 418, 40
+  size: 448, 549
+  orig: 448, 549
+  offset: 0, 0
+  index: -1
+helps3
+  rotate: false
+  xy: 2, 2
+  size: 414, 587
+  orig: 414, 587
+  offset: 0, 0
+  index: -1
